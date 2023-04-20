@@ -88,7 +88,7 @@ public class GamePanel extends JPanel implements ActionListener {
                 x[0] = x[0] - UNIT_SIZE;
                 break;
 
-            case 'r':
+            case 'R':
                 x[0] = x[0] + UNIT_SIZE;
                 break;
         }
